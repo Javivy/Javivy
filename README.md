@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/javivy_2803" target="blank"><img src="https://img.shields.io/twitter/follow/javivy_2803?logo=twitter&style=for-the-badge" alt="javivy_2803" /></a> </p>
 
-- 🔭 I’m currently working and learning at [Microverse](@Microverseinc)
+- 🔭 I’m currently learning at [Microverse](@Microverseinc) which is an online institution that teaches full-stack web development
 
 - 🌱 I’m currently learning **at Microverse, JavaScript, React, Redux, Ruby, and more**
 
