@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently learning at [Microverse](@Microverseinc) which is an online institution that teaches full-stack web development
 
-- 🌱 I’m currently learning **at Microverse, JavaScript, React, Redux, Ruby, and more**
+- 🌱 I’m currently learning technologies such as **JavaScript, React, Redux, Ruby, and more**
 
 - 👯 I’m looking to collaborate on **any company as a fullstack developer**
 
