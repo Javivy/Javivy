@@ -19,6 +19,8 @@
 
 - 📫 How to reach me **javiervargasortega8683@gmail.com**
 
+- 💻 I'm currently available for jobs, I'll be happy to hear about your job offer ❤️
+
 - ⚡ Fun fact **I like playing games and coding for fun**
 
 <h3 align="left">Connect with me:</h3>
