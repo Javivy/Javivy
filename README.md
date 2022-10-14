@@ -27,7 +27,7 @@
 <p align="left">
 <a href="https://codepen.io/@javivy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@javivy" height="30" width="40" /></a>
 <a href="https://twitter.com/javivy_2803" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="javivy_2803" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/javier alejandro vargas ortega" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="javier alejandro vargas ortega" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/javier-alejandro-vargas-ortega/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="javier alejandro vargas ortega" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
