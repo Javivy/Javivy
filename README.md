@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Microverse**
 
-- 👨‍💻 All of my projects are available at [https://javivy.github.io/portfolio-microverse/](https://javivy.github.io/portfolio-microverse/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://jvargasportfolio.netlify.app/)
 
 - 💬 Ask me about **JavaScript, React, Ruby**
 
